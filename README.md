@@ -23,7 +23,7 @@
   Your browser does not support the video tag.
 </video>
 
-![Report Cover](Hardware-project/report-cover.jpg)
+
 
 ### Arduino Code (C++)
 Main control sketch for navigation, sweeping, and safe spraying.
