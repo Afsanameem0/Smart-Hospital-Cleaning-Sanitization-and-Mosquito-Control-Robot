@@ -14,7 +14,7 @@
 ### Visuals
 ![Project Poster](Hardware-project/poster.jpg) <!-- Your poster image -->
 
-![Robot Prototype](Hardware-project/robot-photo.jpg) <!-- Actual build photo -->
+![Robot Prototype](Hardware-project/robot-prototype.jpg) <!-- Actual build photo -->
 
 ![Circuit Diagram](Hardware-project/circuit-diagram.jpg) <!-- Hand-drawn schematic -->
 
